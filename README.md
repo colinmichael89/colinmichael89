@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Colin, an aspiring Fullstack Developer.
 
-## Welcome to my GitHub profile! Here you will find both my personal projects, as well as my repositories from the University of Denver's Fullstack Coding Bootcamp that I completed in December 2022.
+# Welcome to my GitHub profile! Here you will find both my personal projects, as well as my repositories from the University of Denver's Fullstack Coding Bootcamp that I completed in December 2022.
 
 <!--
 **colinmichael89/colinmichael89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
