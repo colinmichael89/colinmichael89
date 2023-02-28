@@ -1,6 +1,5 @@
 ### 👋, Hi there, I'm Colin, an aspiring Fullstack Developer.
-
-
+---
 Welcome to my GitHub profile! Here you will find repositories of my personal projects, as well as my projects from the University of Denver's Fullstack Coding Bootcamp that I completed in December 2022.
 
 <!--
